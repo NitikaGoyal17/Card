@@ -1,0 +1,38 @@
+.frame {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 300px;
+    height: 450px;
+    margin-top: -200px;
+    margin-left: -113px;
+    border-radius: 15px;
+    box-shadow: 1px 2px 10px 0px rgba(0, 0, 0, 0.3);
+    overflow: hidden;
+}
+
+.image img {
+    height: 200px;
+    width: 292px;
+    margin: 2px;
+    padding: 2px;
+    border-radius: 15px;
+}
+
+.info h3 {
+    margin: 10px;
+}
+
+.info p {
+    margin: 9px;
+}
+
+.btn button {
+    margin-left: 200px;
+    padding: 3px;
+    cursor: pointer;
+    background: rgb(204, 169, 54);
+    border: 1px solid rgb(200, 159, 57);
+    box-shadow: 1px 2px 10px 0px rgba(0, 0, 0, 0.2);
+    border-radius: 100px;
+}
